@@ -1,4 +1,4 @@
-## **Eduswap**
+## **Eduswap : Book and Resources Exchange** 
 A platform for exchanging books and educational resources. 
 
 ## **Introduction**
@@ -9,10 +9,11 @@ Eduswap is a simple platform for sharing and exchanging books and study material
 To install Eduswap, follow these steps:
 
 1. Clone the repository: [git clone](https://github.com/poojapanchal300798/Eduwasp.git)
-2. 2. Navigate to the project directory: **`cd project-title`**
+2. Navigate to the project directory: **`cd Eduswap : Book and Resources Exchange`**
 3. Install dependencies: **`npm install`**
 4. Build the project: **`npm run build`**
 5. Start the project: **`npm start`*
+6. 
 ## **Usage**
 To use Project Title, follow these steps:
 
@@ -21,7 +22,8 @@ To use Project Title, follow these steps:
 3. Build the project: **`npm run build`**
 4. Start the project: **`npm start`**
 5. Use the project as desired.
-   ## **Contributing**
+
+    ## **Contributing**
 
 If you'd like to contribute to Project Title, here are some guidelines:
 
@@ -41,3 +43,27 @@ Project Title is released under the MIT License. See the
 
 Please note that this project is released with a Contributor Code of Conduct. By participating in this project, you agree to abide by its terms. See the **** file for more information.
 
+## **FAQ**
+
+Q: What is Eduswap?
+
+A: Eduswap is a platform for exchanging books and educational resources between students and educators.
+
+Q: How do I install Eduswap?
+
+A: Follow the installation steps in the README file.
+
+Q: How do I use Eduswap?
+
+A: Follow the usage steps in the README file to list and browse educational resources.
+
+Q: How do I contribute to Eduswap?
+
+A: Follow the contributing guidelines in the README file.
+
+Q: What license is Eduswap released under?
+
+A: Eduswap is released under the MIT License. See the LICENSE file for details.
+
+## Conclusion
+Eduswap is a platform that helps people share books and educational resources, making learning materials easier to access. By joining and contributing, you help make education more affordable and available to everyone. We appreciate your support and feedback as we work to improve the platform.
