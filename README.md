@@ -47,6 +47,9 @@ To use Project Title, follow these steps:
 ## **License**
 Project Title is released under the MIT License. See the (https://github.com/poojapanchal300798/Eduwasp/blob/main/LICENSE)
 
+## Code of content
+file:///C:/Users/Admin/Desktop/IT%20engineering/HTML%20&%20CSS/File.html
+
 ## **Authors and Acknowledgment**
 
 Project Title was created by **[Pooja Tushar Panchal](poojapanchal300798)**
