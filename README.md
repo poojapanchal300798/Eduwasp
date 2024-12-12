@@ -35,7 +35,9 @@ If you'd like to contribute to Project Title, here are some guidelines:
 6. Commit your changes.
 7. Push your changes to your forked repository.
 8. Submit a pull request.
-
+   
+## **Code of Conduct**
+See the file (file:///C:/Users/Admin/Desktop/IT%20engineering/HTML%20&%20CSS/Home%20work-2.html)
 ## **License**
 Project Title is released under the MIT License. See the (https://github.com/poojapanchal300798/Eduwasp/blob/main/LICENSE)
 
