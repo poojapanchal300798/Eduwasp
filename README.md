@@ -43,22 +43,7 @@ To use Project Title, follow these steps:
 3. Build the project: **`npm run build`**
 4. Start the project: **`npm start`**
 5. Use the project as desired.
-
-    ## **Contributing**
-
-If you'd like to contribute to Project Title, here are some guidelines:
-
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Make your changes.
-4. Write tests to cover your changes.
-5. Run the tests to ensure they pass.
-6. Commit your changes.
-7. Push your changes to your forked repository.
-8. Submit a pull request.
    
-## **Code of Conduct**
-See the file (file:///C:/Users/Admin/Desktop/IT%20engineering/HTML%20&%20CSS/Home%20work-2.html)
 ## **License**
 Project Title is released under the MIT License. See the (https://github.com/poojapanchal300798/Eduwasp/blob/main/LICENSE)
 
