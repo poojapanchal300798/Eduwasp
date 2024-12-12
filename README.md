@@ -13,7 +13,7 @@ To install Eduswap, follow these steps:
 3. Install dependencies: **`npm install`**
 4. Build the project: **`npm run build`**
 5. Start the project: **`npm start`*
-6. 
+   
 ## **Usage**
 To use Project Title, follow these steps:
 
@@ -37,11 +37,11 @@ If you'd like to contribute to Project Title, here are some guidelines:
 8. Submit a pull request.
 
 ## **License**
-Project Title is released under the MIT License. See the 47aa852b4ea25b7d1031a93040ade98ebebc76d1
+Project Title is released under the MIT License. See the (https://github.com/poojapanchal300798/Eduwasp/blob/main/LICENSE)
 
-## **Code of Conduct**
+## **Authors and Acknowledgment**
 
-Please note that this project is released with a Contributor Code of Conduct. By participating in this project, you agree to abide by its terms. See the **** file for more information.
+Project Title was created by **[Pooja Tushar Panchal](poojapanchal300798)**
 
 ## **FAQ**
 
@@ -64,6 +64,10 @@ A: Follow the contributing guidelines in the README file.
 Q: What license is Eduswap released under?
 
 A: Eduswap is released under the MIT License. See the LICENSE file for details.
+
+## **Contact**
+
+If you have any questions or comments about Project Title, please contact **info@eduswap.com**.
 
 ## Conclusion
 Eduswap is a platform that helps people share books and educational resources, making learning materials easier to access. By joining and contributing, you help make education more affordable and available to everyone. We appreciate your support and feedback as we work to improve the platform.
