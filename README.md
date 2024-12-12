@@ -37,7 +37,7 @@ If you'd like to contribute to Project Title, here are some guidelines:
 8. Submit a pull request.
 
 ## **License**
-Project Title is released under the MIT License. See the
+Project Title is released under the MIT License. See the 47aa852b4ea25b7d1031a93040ade98ebebc76d1
 
 ## **Code of Conduct**
 
