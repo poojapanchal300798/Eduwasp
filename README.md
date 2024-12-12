@@ -4,6 +4,27 @@ A platform for exchanging books and educational resources.
 ## **Introduction**
 Eduswap is a simple platform for sharing and exchanging books and study materials. It helps students and teachers save money and find useful learning resources. Eduswap also reduces waste by reusing books and materials instead of throwing them away. It is easy to use and helps connect people who want to share or find educational items.
 
+## Primary Idea:
+Eduswap is a platform for exchanging books and educational resources among students, teachers, and educational institutions. The platform facilitates swapping books, notes, and study materials to make educational resources more accessible and affordable.
+
+## Target Audience:
+Students, teachers, and anyone in the educational ecosystem interested in sharing or exchanging learning resources.
+
+## When
+December 2024
+
+## Why 
+To foster a community of sharing educational materials to reduce costs and promote resource reuse in academic environments.
+
+## Technologies Used
+HTML, CSS
+
+## Tools Used 
+Project Management:
+Google Docs/Sheets (for planning and documentation)
+Development Tools:
+Visual Studio Code (for development)
+
 ## **Installation**
 
 To install Eduswap, follow these steps:
